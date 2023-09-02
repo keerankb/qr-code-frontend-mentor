@@ -19,12 +19,15 @@ I have used HTML, CSS & Bootstrap 5 CSS library to achieve this challenge.
 
 ### Screenshot
 
-[Desktop Screen Screenshot](./design/final-desktop-screen.png)
-[Mobile Screen Screenshot](./design/final-mobile-screen.png)
+Desktop Screenshot :
+![](./design/final-desktop-screen.png)
+
+Mobile Screenshot :
+![](./design/final-mobile-screen.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://keerankb.github.io/qr-code-frontend-mentor/)
+- Live Site URL: [Click Here](https://keerankb.github.io/qr-code-frontend-mentor/)
 
 ## My process
 
