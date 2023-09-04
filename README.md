@@ -53,4 +53,3 @@ Looking forward to cover this challenge or upcoming challenge in future with som
 - Frontend Mentor - [@keerankb](https://www.frontendmentor.io/profile/keerankb)
 - LinkedIn - [@kiran-bhadre-kb](https://www.linkedin.com/in/kiran-bhadre-kb)
 - Github  - [@keerankb](https://github.com/keerankb)
-- 
